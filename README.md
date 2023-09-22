@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Pelekingz
-- 👀 I’m interested in Cyber security and Ethical Hacking ......
-- 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, I’m @Pelekingz
 
-<!---
-Pelekingz/Pelekingz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔒 Cybersecurity Enthusiast | 💻 Penetration Tester
+
+🚀 Learning and sharing my journey in the world of cybersecurity, ethical hacking, and penetration testing.
+
+👨‍💻 Proficient in Python, JavaScript, and Golang.
+
+📚 Always hungry for knowledge and passionate about securing the digital world.
+
+📫 Connect with me to collaborate on exciting projects or discuss all things security!
+
