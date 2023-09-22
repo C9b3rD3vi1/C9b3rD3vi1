@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @Pelekingz
+- 👋 Hello, I’m @ Wekongo Nickson
 
 🔒 Cybersecurity Enthusiast | 💻 Penetration Tester
 
