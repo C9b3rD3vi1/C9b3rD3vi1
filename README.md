@@ -6,7 +6,8 @@
 
 ### 📊 Most Used Languages
 
-![C9b3rD3vi1 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C9b3rD3vi1&layout=compact&theme=radical)
+![C9b3rD3vi1 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C9b3rD3vi1&layout=compact&theme=radical) |[![GitHub Streak](https://streak-stats.demolab.com?user=C9b3rD3vi1&theme=highcontrast&hide_border=true&locale=en)](https://git.io/streak-stats)
+
 
 [![C9b3rD3vi1 GitHub stats](https://github-readme-stats.vercel.app/api?username=C9b3rD3vi1&show_icons=true&theme=radical)](https://github.com/C9b3rD3vi1/github-readme-stats)
 
@@ -55,4 +56,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/C9b3rD3vi1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/C9b3rD3vi1_)
