@@ -1,14 +1,6 @@
 # Profile
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&lines=Welcome+to+my+Professional+profile!;Here+is+my+tech+stack)
-
-- 👋 Hello, I’m @ Wekongo Nickson
-
-🔒 Cybersecurity Enthusiast | 💻 Penetration Tester
-
-🚀 Learning and sharing my journey in the world of cybersecurity, ethical hacking, and penetration testing.
-
-👨‍💻 Proficient in Python, JavaScript, and Golang.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&lines=Welcome+to+my+Professional+profile!;Here+is+my+tech+stack;Learning+and+sharing+my+journey+in+the+world+of+cybersecurity,+Ethical+Hacking,+and+💻+Penetration+Testing.)
 
 ## My Tech Stack
 
