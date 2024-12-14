@@ -4,7 +4,7 @@
 
 ## My Tech Stack
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C9b3rD3vi1&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C9b3rD3vi1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ Programming Languages
 
