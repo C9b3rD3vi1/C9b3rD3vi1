@@ -28,7 +28,7 @@
 
 - **Junior Certified Penetration Tester**  
 - **Bsc Computer Science**  
-- **AWS Certified Security – Specialty**
+
 
 ## 📫 Connect with Me
 
