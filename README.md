@@ -16,6 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75" alt="JavaScript" />
 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain-wordmark.svg" width="75" height="75" alt="debian" /> />
+          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="75" height="75" alt="django" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="75" height="75" alt="PostgreSQL" />
