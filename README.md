@@ -1,6 +1,6 @@
 # Profile
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=10000&lines=Welcome+to+my+Professional+Profile!;Here+is+my+tech+stack;Learning+and+sharing+my+journey;Cybersecurity,+Ethical+Hacking,+and+💻+Penetration+Testing.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=10000&lines=Welcome+to+my+Professional+Profile!;Here+is+my+tech+stack;Cybersecurity,+Ethical+Hacking,+and+💻+Penetration+Testing.)
 
 ## My Tech Stack
 
