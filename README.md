@@ -20,7 +20,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75" alt="JavaScript" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75" height="75" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="75" height="75" alt="Bash" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain-wordmark.svg" width="75" height="75" alt="debian" />
           
@@ -35,8 +35,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75" height="75" alt="Linux" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="75" height="75" alt="Bash" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="75" height="75" alt="Docker" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="75" height="75" alt="AWS" />
 
