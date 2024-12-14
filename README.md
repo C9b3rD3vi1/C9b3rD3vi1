@@ -4,6 +4,8 @@
 
 ## My Tech Stack
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C9b3rD3vi1)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🛠️ Programming Languages
 
 <p>
