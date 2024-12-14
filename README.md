@@ -9,7 +9,7 @@
 ![C9b3rD3vi1 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C9b3rD3vi1&layout=compact&theme=radical) |[![GitHub Streak](https://streak-stats.demolab.com?user=C9b3rD3vi1&theme=highcontrast&hide_border=true&locale=en)](https://git.io/streak-stats)
 
 
-[![C9b3rD3vi1 GitHub stats](https://github-readme-stats.vercel.app/api?username=C9b3rD3vi1&show_icons=true&theme=radical)](https://github.com/C9b3rD3vi1/github-readme-stats)
+[![C9b3rD3vi1 GitHub stats](https://github-readme-stats.vercel.app/api?username=C9b3rD3vi1&show_icons=true&theme=radical)](https://github.com/C9b3rD3vi1/github-readme-stats) | <img src="https://tryhackme-badges.s3.amazonaws.com/C9b3rD3vi1.png" alt="Your Image Badge" />
 
 ### 🛠️ Programming Languages and Tech Tools
 
