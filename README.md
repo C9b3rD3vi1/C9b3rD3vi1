@@ -8,7 +8,7 @@
 
 ![C9b3rD3vi1 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C9b3rD3vi1&layout=compact&theme=radical&cache_seconds=86400)|[![GitHub Streak](https://streak-stats.demolab.com?user=C9b3rD3vi1&theme=monokai)](https://git.io/streak-stats)
 
-[![C9b3rD3vi1 GitHub stats](https://github-readme-stats.vercel.app/api?username=C9b3rD3vi1&show_icons=true&theme=radical&cache_seconds=86400)](https://github.com/C9b3rD3vi1/github-readme-stats) |![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/C9b3rD3vi1.png)
+[![C9b3rD3vi1 GitHub stats](https://github-readme-stats.vercel.app/api?username=C9b3rD3vi1&show_icons=true&theme=radical&cache_seconds=86400)](https://github.com/C9b3rD3vi1/github-readme-stats) | ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/C9b3rD3vi1.png)
 
 ## 🛠️ Programming Languages and Tech Tools
 
@@ -22,10 +22,12 @@
 
 ### 🔹 Web & Databases
 <p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-original.svg" width="75" height="75" alt="Fiber" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="75" height="75" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="75" height="75" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="75" height="75" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="75" height="75" alt="CSS" />
+ 
 </p>
 
 ### 🔹 DevOps & Cloud
