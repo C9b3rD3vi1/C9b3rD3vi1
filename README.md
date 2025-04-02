@@ -22,7 +22,7 @@
 
 ### 🔹 Web & Databases
 <p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-original.svg" width="75" height="75" alt="Fiber" />
+ <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" width="200" alt="GoFiber Logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="75" height="75" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="75" height="75" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="75" height="75" alt="HTML" />
